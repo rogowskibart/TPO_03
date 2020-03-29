@@ -1,4 +1,4 @@
-# MAS excercises
+# MAS exercises
 
 In this repository you can find my solutions to the tasks that can be found on website of Mariusz Trzaska.
 
